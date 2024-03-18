@@ -3,3 +3,5 @@ Este es un archivo de texto plano
 tiene tres lineas, primera, segunda y tercera
 
 Me gustaría aprender más rápido.
+
+En el segundo comit añado una cuarta línea
