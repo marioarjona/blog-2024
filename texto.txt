@@ -1,4 +1,4 @@
-Este es un archivo de texto plano
+Este es un archivo de texto cuadrado.
 
 tiene tres lineas, primera, segunda y tercera
 
