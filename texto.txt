@@ -1,9 +1,5 @@
-Este es un archivo de texto cuadrado y triangulo.
+Este es un archivo de texto plano
 
 tiene tres lineas, primera, segunda y tercera
 
-Me gustaría aprender más rápido.
-
-En el segundo comit añado una cuarta línea
-
-Realizo el tercer commit
+La tercera linea esta cambiada por completo
