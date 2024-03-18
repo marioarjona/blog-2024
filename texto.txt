@@ -1,4 +1,4 @@
-Este es un archivo de texto cuadrado.
+Este es un archivo de texto cuadrado y triangulo.
 
 tiene tres lineas, primera, segunda y tercera
 
